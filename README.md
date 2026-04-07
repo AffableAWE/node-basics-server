@@ -22,7 +22,7 @@ How to Use 🚴
 	2.	Run Each File: Use node <filename.js> to start each server.
 	3.	Test in Browser: Open http://localhost:8000 or use a tool like curl to see responses.
 
-Why These Examples? 🤔
+Why These Examples?
 
 Each example is a building block for creating more complex back-end applications. These files illustrate how to:
 
