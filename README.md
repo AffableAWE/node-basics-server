@@ -1,10 +1,10 @@
 README
 
-Node.js Basic HTTP Server Examples 🚀
+Node.js Basic HTTP Server Examples 
 
 Welcome to a collection of simple, beginner-friendly Node.js HTTP server examples! This repository demonstrates how to set up a basic server in Node.js that can handle a variety of response types. Whether it’s JSON, HTML, CSV, or basic routing, these examples cover the essentials.
 
-Project Highlights 🌟
+Project Highlights 
 
 | File                     | Description                                                     | Example Use Case                                          |
 |--------------------------|-----------------------------------------------------------------|-----------------------------------------------------------|
