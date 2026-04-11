@@ -16,7 +16,7 @@ Project Highlights
 | **htmlFile_efficient.js**   | Caches `index.html` in memory to serve faster responses.      | Optimized for performance by reducing file I/O on each request. |
 | **routes.js**            | Implements basic routing with different endpoints (`/books`, `/authors`, etc.). | Introduces routing to handle multiple endpoints in a server. |
 
-How to Use 🚴
+How to Use 
 
 	1.	Clone this repository: git clone <repo-url>
 	2.	Run Each File: Use node <filename.js> to start each server.
