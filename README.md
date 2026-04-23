@@ -31,6 +31,6 @@ Each example is a building block for creating more complex back-end applications
 	•	Serve HTML efficiently
 	•	Implement basic routing
 
-Inspiration
+Inspiration.
 
 Learning Node.js basics can open doors to building full-fledged applications, from REST APIs to simple web servers. These examples aim to make those first steps clear and accessible.
