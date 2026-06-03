@@ -31,3 +31,6 @@ Why These Examples?
 
 Inspiration.
 
+Learning Node.js basics can open doors to building full-fledged applications, from REST APIs to simple web servers.
+
+
