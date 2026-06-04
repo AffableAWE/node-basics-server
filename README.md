@@ -29,7 +29,6 @@ Why These Examples?
 	•	Serve HTML efficiently
 	•	Implement basic routing
 
-Inspiration.
 
 
 
