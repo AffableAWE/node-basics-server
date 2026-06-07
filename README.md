@@ -24,10 +24,6 @@ Each example is a building block for creating more complex back-end applications
 
 Why These Examples?
 
-	•	Set up a Node.js server
-	•	Handle different response types (text, JSON, files)
-	•	Serve HTML efficiently
-	•	Implement basic routing
 
 
 
