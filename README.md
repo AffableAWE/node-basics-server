@@ -20,15 +20,6 @@ How to Use
 2. Run Each File: Use node <filename.js> to start each server.
 3. Test in Browser: Open http://localhost:8000 or use a tool like curl to see responses.
 
-Each example is a building block for creating more complex back-end applications. These files illustrate how to:
-
-Why These Examples?
-
-• Set up a Node.js server
-• Handle different response types (text, JSON, files)
-• Serve HTML efficiently
-• Implement basic routing
-
 
 
 
