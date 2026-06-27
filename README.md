@@ -18,7 +18,7 @@ How to Use
 
 1. Clone this repository: git clone <repo-url>
 2. Run Each File: Use node <filename.js> to start each server.
-3. Test in Browser: Open http://localhost:8000 or use a tool like curl to see responses.
+
 
 
 
